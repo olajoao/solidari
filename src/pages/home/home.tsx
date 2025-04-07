@@ -8,7 +8,7 @@ function Home() {
             <div className="hero-overlay"></div>
             <div className="hero-content text-neutral-content text-center">
                 <div className="max-w-xl">
-                    <h1 className="mb-5 text-5xl font-bold">Solidari</h1>
+                    <h1 className="mb-5 text-6xl font-bold">Solidari</h1>
                     <p className="mb-5 text-xl text-neutral-content">
                         Conectando doadores a quem mais precisa! <br />
 No Solidari, a gente faz a ponte da solidariedade acontecer. <br />
