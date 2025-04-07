@@ -16,7 +16,7 @@ Com empatia, simplicidade e amor.
                     </p>
                     <div className="flex justify-center gap-5">
                         <button className="btn btn-accent">Quero doar</button>
-                        <button className="btn btn-secondary">Preciso de ajuda</button>
+                        <button className="btn">Preciso de ajuda</button>
                     </div>
                 </div>
             </div>
